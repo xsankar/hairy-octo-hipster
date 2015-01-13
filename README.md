@@ -4,13 +4,13 @@ Data &amp; Code for the Global Big Data Conference R Workshop
 Conference Speaker URL : http://globalbigdataconference.com/43/santa-clara/big-data-bootcamp/speaker-details/567/krishna-sankar.html
 
 Requirements for the attendees:
-This will be a hands-on workshop. So would be mot benefitial if you can come prepared.
+This will be a hands-on workshop. So would be most benefitial if you can come prepared.
 
-a) Install r
+a) Install R
 
 b) Install R Studio
 
-c) Clone this github repository (and update before going to bed on Saturday ! for the latest files)
+c) Clone this github repository (and update before going to bed on Saturday ;o) for the latest files)
 
 d) Download data from Kaggle. I cannot distribute Kaggle data.
    
