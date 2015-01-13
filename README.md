@@ -1,12 +1,20 @@
 # hairy-octo-hipster
 ### Data &amp; Code for the Global Big Data Conference R Workshop
+
 ---
+
 Conference Speaker URL : http://globalbigdataconference.com/43/santa-clara/big-data-bootcamp/speaker-details/567/krishna-sankar.html
+
 ---
+
 ### Abstract :
+
    A hands-on workshop with R, Data Science, Algorithms and interesting data. We might even try couple of Kaggle competitions.
+
 ---
+
 ### Requirements for the attendees:
+
 > This will be a hands-on workshop. So would be most benefitial if you can come prepared.
 
 1. Install R
@@ -17,7 +25,7 @@ Conference Speaker URL : http://globalbigdataconference.com/43/santa-clara/big-d
 
 4. Download data from Kaggle. I cannot distribute Kaggle data.
    
-  # Setup an account in Kaggle (www.kaggle.com)
+  * Setup an account in Kaggle (www.kaggle.com)
     
   * We will be using the data from 2 Kaggle competitions
    * Titanic: Machine Learning from Disaster
@@ -31,4 +39,5 @@ Conference Speaker URL : http://globalbigdataconference.com/43/santa-clara/big-d
       Download data from http://www.kaggle.com/c/bike-sharing-demand/data
       
       Directory ~/hairy-octo-hipster/bike
+
 ---
