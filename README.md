@@ -26,18 +26,15 @@ Conference Speaker URL : http://globalbigdataconference.com/43/santa-clara/big-d
 4. Download data from Kaggle. I cannot distribute Kaggle data.
    
   * Setup an account in Kaggle (www.kaggle.com)
-    
   * We will be using the data from 2 Kaggle competitions
-   * Titanic: Machine Learning from Disaster
-      
-      Download data from http://www.kaggle.com/c/titanic-gettingStarted
-      
-      Directory ~/hairy-octo-hipster/titanic-r
-    
-  * Predicting Bike Sharing @ Washington DC
-      
-      Download data from http://www.kaggle.com/c/bike-sharing-demand/data
-      
-      Directory ~/hairy-octo-hipster/bike
+    * Titanic: Machine Learning from Disaster
+      * Download data from http://www.kaggle.com/c/titanic-gettingStarted
+      * Directory ~/hairy-octo-hipster/titanic-r
+    * Predicting Bike Sharing @ Washington DC
+      * Download data from http://www.kaggle.com/c/bike-sharing-demand/data
+      * Directory ~/hairy-octo-hipster/bike
+  * We also will be using the data 2014 NFL Boxscore
+    * Download data from http://www.pro-football-reference.com/years/2014/games.htm
+    * Directory ~/hairy-octo-hipster/nfl
 
 ---
