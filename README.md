@@ -11,6 +11,23 @@ Conference Speaker URL : http://globalbigdataconference.com/43/santa-clara/big-d
 
    A hands-on workshop with R, Data Science, Algorithms and interesting data. We might even try couple of Kaggle competitions.
 
+### Outline :
+
+   1. Intro, Goals, Logistics, Setup [10] [9:00-9:10)
+   2. Introduction to R [30] [9:10-9:40)
+   3. Who will win Superbowl XLIX ? The Art of ELO Ranking [30] [9:40-10:10)
+   3. Anatomy of a Kaggle Competition [40] [10:10-10:50)
+      * Competition Mechanics
+      * Register, download data, create sub directories
+      * Trial Run : Submit Titanic
+   3. Break [20] [10:50-11:10)
+   3. Algorithms for the Amateur Data Scientist [20] [11:10-11:30)
+      * Algorithms, Tools & frameworks in perspective
+      * “Folk Wisdom”
+   3. Model Evaluation & Interpretation [30] [11:30 - 12:00)
+      * Confusion Matrix, ROC Graph
+   3. Questions/Discussions
+
 ---
 
 ### Requirements for the attendees:
