@@ -6,6 +6,7 @@
 Conference Speaker URL : http://globalbigdataconference.com/43/santa-clara/big-data-bootcamp/speaker-details/567/krishna-sankar.html
 
 Slides at Slideshare http://http://goo.gl/2rijLz 
+
 ---
 
 ### Abstract :
