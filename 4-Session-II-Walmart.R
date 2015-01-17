@@ -1,5 +1,5 @@
 getwd()
-setwd("bdtc-2014/")
+setwd("~/gbdc-2014/")
 #
 print("Clearing Workspace ...")
 rm(list = ls(all = TRUE))
