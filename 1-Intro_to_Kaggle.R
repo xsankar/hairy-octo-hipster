@@ -40,7 +40,7 @@ head(df_test)
 out <- df_test %>% select(PassengerId,Survived)
 write.csv(out,"titanic-r/r-sub-01.csv",row.names = FALSE)
 #
-# Submit & it should give 0.23445, Rank 2681
+# Submit & it should give 0.23445, Rank 2681 / 1968 (1/17/15)
 #
 #
 # 2 : Simple Model (F=Survived) 
@@ -52,6 +52,7 @@ out <- df_test %>% select(PassengerId,Survived)
 write.csv(out,"titanic-r/r-sub-02.csv",row.names = FALSE)
 #
 # Submit & it should give 0.76555, Rank 2232
+# [1/17/15] 0.76555, Rank 1697 (+271)
 #
 # Would age be a better predictor ?
 #
@@ -99,6 +100,7 @@ out <- df_test_1 %>% select(PassengerId,Survived)
 write.csv(out,"titanic-r/r-sub-03.csv",row.names = FALSE)
 #
 # Submit & it should give 0.78947, Rank 809 !
+# [1/17/15] 0.78947, Rank 741 -  +0.02392 gave +956 ! It is really lonley at the top ;o) 
 #
 # May be better because we have improved the survival rate of men !
 #

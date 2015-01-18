@@ -52,7 +52,8 @@ rf.cv <- rfcv(trainx = (df_train_all %>% select(-Survived,-PassengerId)), trainy
 with(rf.cv, plot(n.var, error.cv))
 #
 library("ROCR")
-pred_01 <- prediction(pred,test_set_y)
+pred <- predict(mdl_rf,type="prob",newdata = (test_set %>% select(-PassengerId)))
+pred_01 <- prediction(pred[,2],test_set_y) # NeedsProbability of Class 1
 rf_ROCR <- performance(pred_01, "tpr", "fpr")
 plot(rf_ROCR, colorize=TRUE)
 #
